@@ -1,4 +1,4 @@
-(defproject clargo "0.1.0-SNAPSHOT"
+(defproject clargo "0.1.0"
   :description "Clargo: Clojure Argo library"
   :url "https://github.com/nicl/clargo"
   :license {:name "Eclipse Public License"
