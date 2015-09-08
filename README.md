@@ -1,5 +1,7 @@
 # Clargo
 
+[![Clojars Project](http://clojars.org/clargo/latest-version.svg)](http://clojars.org/clargo)
+
 Clojure schema library for [Argo](https://github.com/argo-rest/spec).
 
 ## License
