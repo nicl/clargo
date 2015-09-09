@@ -27,4 +27,5 @@
 (defn argo?
   "Checks whether data is a valid Argo response"
   [data]
-  (s/check Argo data))
+  (let [errors (s/check Argo data)]
+    errors))
